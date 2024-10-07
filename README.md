@@ -2,8 +2,8 @@
 
 This project provides a `FitnessModel` class that generates personalized fitness plans and exercise recommendations. It utilizes clustering classification and machine learning techniques to create dynamic workout routines based on user-specific inputs like fitness level, goals, gender, and equipment availability.
 
-## Pipline
-![Workout-Recommendation Pipline ](pipeline.jpg)
+## Pipeline
+![Workout-Recommendation Pipeline ](pipeline.jpg)
 
 ## Overview
 The `FitnessModel` class allows you to:
